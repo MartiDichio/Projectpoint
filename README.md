@@ -6,10 +6,10 @@ Alumna: Martina Dichio
 
 ## comercializar departamentos del desarrollo point
 
-## parte tecnica del proyecto
+## utilizamos herencias, srt, main return
 
-## futuras mejoras
+## añadit mas acciones
 
-## problemas conocidos 
+## no responder comando
 
 
