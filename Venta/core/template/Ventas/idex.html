@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Mi Sitio Web{% endblock %}</title>
+</head>
+<body>
+    <header>
+        <!-- Aquí puedes incluir tu encabezado común a todas las páginas -->
+    </header>
+    
+    <main>
+        {% block content %}
+        <!-- Este bloque será reemplazado por el contenido específico de cada página -->
+        {% endblock %}
+    </main>
+
+    <footer>
+        <!-- Aquí puedes incluir tu pie de página común a todas las páginas -->
+    </footer>
+</body>
+</html>
